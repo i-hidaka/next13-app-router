@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Next.js学習中",
+      "content": "Next.jsのapprouterを学習しています。",
+      "createdAt": "2024/07/27"
+    },
+    {
+      "id": "2",
+      "title": "Next.js学習中",
+      "content": "Next.jsのapprouterを学習しています。2️⃣",
+      "createdAt": "2024/07/27"
+    }
+  ]
+}
