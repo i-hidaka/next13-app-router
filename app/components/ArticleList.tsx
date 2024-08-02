@@ -12,7 +12,7 @@ const ArticleList = ({ articles }: ArticleListProps) => {
         <article className="shadow my-4" key={article.id}>
           <Link href={`articles/${article.id}`} className="hover:opacity-75">
             <Image
-              src="https://picsum.photos/1000/500 "
+              src={`https://picsum.photos/1000/500?image=${article.id}`}
               alt=""
               width={1280}
               height={300}
